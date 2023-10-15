@@ -48,7 +48,7 @@ streamlit.write('The user entered', fruit_choice)
 #import requests
 
 #Don't run anything past it
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
